@@ -19,3 +19,6 @@ now I fixed this program! test
 copy is y
 paste is p
 delete is dd
+####################################
+修改了 by old2
+###################################
